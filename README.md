@@ -12,7 +12,7 @@ const Adrian = {
        backEnd: {
             js: ["node"],
         },
-        databases: ["MySql", "sqlite"],
+        databases: ["MySql", "sqlite", "Oracle"],
         misc: ["Firebase", "Arduino"]
     },
     funFact: "There are two ways to write error-free programs; only the third one works"
