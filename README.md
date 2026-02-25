@@ -1,7 +1,5 @@
 ## Hello there!
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-mathias-kerber-0ba20317b/)](https://www.linkedin.com/in/adrian-mathias-kerber-0ba20317b/)
-[![](https://img.shields.io/badge/Telegram-blue)](https://t.me/adriankerber)
-[![](https://img.shields.io/badge/Gmail-red)](mailto:adrianmathiaskerber@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/adrian-mathias-kerber-0ba20317b/](https://www.linkedin.com/in/adrian-mathias-kerber-08a9b0267/))](https://www.linkedin.com/in/adrian-mathias-kerber-08a9b0267/)
 
 ```javascript
 const adrianKerber = {
