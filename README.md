@@ -5,11 +5,12 @@
 
 ```javascript
 const adrianKerber = {
-  code: ["JavaScript", "TypeScript", "Rust", "Python", "SQL"],
+  code: ["JavaScript", "TypeScript", "Rust", "Python", "SQL", "RoR", "Delphi", "C++", "Java",],
 
   askMeAbout: [
     "web dev",
     "desktop apps",
+    "mobile apps",
     "SaaS",
     "automação",
     "agro + tech",
@@ -22,11 +23,18 @@ const adrianKerber = {
       "Vite",
       "Next.js",
       "TailwindCSS",
+      "Shadcn/ui",
+      "Radix UI",
+    ],
+
+    mobile: [
+      "React Native",
+      "Flutter",
     ],
 
     desktop: [
       "Tauri",
-      "Rust",
+      "Delphi (VCL)",
     ],
 
     backend: {
@@ -34,16 +42,32 @@ const adrianKerber = {
       rust: ["APIs REST", "CLI tools"],
     },
 
+    orm: [
+      "Prisma",
+      "Drizzle",
+    ],
+
     databases: [
       "PostgreSQL",
       "Neon",
       "Supabase",
+      "OracleSQL",
+    ],
+
+    auth: [
+      "Neon Auth",
     ],
 
     cloudAndInfra: [
       "Vercel",
       "Render",
       "Docker",
+      "WSL",
+      "GitHub Actions",
+    ],
+
+    testing: [
+      "Jest",
     ],
 
     mapsAndDataViz: [
@@ -55,6 +79,8 @@ const adrianKerber = {
       "XML (NF-e)",
       "Cloudinary",
       "Imgur API",
+      "OpenAI API",
+      "Anthropic API",
     ],
 
     misc: [
